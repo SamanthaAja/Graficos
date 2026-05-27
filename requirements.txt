@@ -1,0 +1,8 @@
+streamlit==1.57.0
+pandas==3.0.3
+numpy==2.4.4
+plotly==6.3.1
+scipy==1.17.1
+scikit-learn==1.8.0
+python-dateutil==2.9.0.post0
+lxml==6.1.0

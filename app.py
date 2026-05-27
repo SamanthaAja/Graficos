@@ -18,7 +18,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-DATA = r"c:\Users\ajasa\OneDrive\Documentos\Graficos"
+DATA = os.path.dirname(os.path.abspath(__file__))
 
 PLANTS = {
     "FERCHEGAS EL VIEJÓN": {
